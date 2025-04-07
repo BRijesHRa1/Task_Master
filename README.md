@@ -1,6 +1,9 @@
 # Task Master - Modern Todo List Application
 
 A beautiful, feature-rich todo list application built with React, Tailwind CSS, and Framer Motion.
+<img width="1470" alt="Screenshot 2025-04-07 at 3 36 31 PM" src="https://github.com/user-attachments/assets/adb70125-f6df-48a1-a973-09c820b13de1" />
+
+
 
 ## Features
 
@@ -32,8 +35,6 @@ A beautiful, feature-rich todo list application built with React, Tailwind CSS, 
    ```
    npm run dev
    ```
-
-## Usage
 
 - Click on the task input field to add a new task
 - The form will expand to reveal description and due date fields
